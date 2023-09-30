@@ -67,9 +67,7 @@ function Header() {
                                 >
                                     Git hub
                                 </NavLink>
-                            </li>
-                            
-                            
+                            </li>           
                         </ul>
                     </div>
                 </div>
