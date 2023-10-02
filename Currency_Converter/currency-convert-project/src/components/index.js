@@ -1,4 +1,10 @@
 import InputBox from "./Input";
+const Index=()=>{
+    return(
+        <>
+        <InputBox/>
+        </>
+    )
+}
 
-
-export  {InputBox}
+export default Index;
